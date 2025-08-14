@@ -1,0 +1,8 @@
+
+application.db
+
+
+*.pyc
+__pycache__/
+*.log
+/assets/temp/

@@ -1,0 +1,6 @@
+
+cffi==1.17.1
+pycparser==2.22
+srt==3.5.3
+vosk==0.3.45
+websockets==13.1
